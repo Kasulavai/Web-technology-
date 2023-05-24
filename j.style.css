@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0
+}
+#headerWrap{
+    width: 1200px;
+    height: 200px;
+    margin: 0 auto;
+}
+.logoWrap{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    float: left;
+}
+.bannerWrap{
+    width: 1000px;
+    height: 200px;
+    background-color: blue;
+    float: right;
+}
+#menuWrap{
+    width: 1200px;
+    height: 80px;
+    margin: 0 auto;
+    background-color: brown;
+}
+#introWrap{
+    width: 1200px;
+    height: 500px;
+    margin: 50px auto;
+}
+.introBox{
+    width: 500px;
+    height: 400px;
+    float: left;
+    padding: 50px;
+    text-align: justify;
+    font-size: 20px;
+}
+.introBox h2{
+  text-transform: capitalize;
+}
+#programWrap{
+    width: 1200px;
+    height: 200px;
+    margin: 0 auto;
+}
+.programBox{
+    width: 400px;
+    height: 200px;
+    float: left;
+}
+#footerWrap{
+    width: 1200px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: #2e2f2f;
+    margin-top: 50px
+}
+#footerCredentials{
+    width: 1200px;
+    height: 80px;
+    margin: 0 auto;
+    background-color: #000;
+}
